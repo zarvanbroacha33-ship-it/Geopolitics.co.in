@@ -1,0 +1,8 @@
+{
+  "name": "Geopolitics.in",
+  "description": "Geopolitics analysis, intelligence, and global affairs tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
